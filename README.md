@@ -6,7 +6,7 @@ Neolaureato in Amministrazione, Controllo e Finanza Aziendale, con una forte pas
 Ho conseguito il certificato professionale in Data Analytics di Google, acquisendo solide competenze nelle tecniche di analisi dei dati e nell'utilizzo di strumenti come SQL e Tableau, oltre a linguaggi di programmazione come Python e R.
 
 ## 🔭 Progetti attuali
-- **[Nome del Progetto 1](URL_del_Progetto_1)**: Breve descrizione del progetto e delle sue funzionalità principali.
+- **[Google-Certificate-Case-Study](https://github.com/A-K147/Bitcoin-Price-Analysis---Google-Certificate-Case-Study)**: Questo progetto mira ad analizzare il comportamento del Bitcoin come asset, concentrandosi sulla sua performance nei 18 mesi successivi agli eventi di halving e sulla sua correlazione con l'S&P 500. Attraverso questa analisi, fornisco raccomandazioni strategiche per un fondo di private equity che sta valutando il Bitcoin come investimento alternativo a breve termine.
 
 ## 🌱 Competenze
 - **Linguaggi di Programmazione**: Python, R, SQL
